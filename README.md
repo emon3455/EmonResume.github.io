@@ -1,1 +1,1 @@
-This is my personal Resume website. This is my first Frontend Projects.
+This is my personal Resume website. Also my first Frontend Projects.
